@@ -1,0 +1,13 @@
+<downloadInfo outputPath="./images/Tazuna" limit="10" maxPages="all" separationByPage="true"
+    separationByArtist="false">
+    <!-- write "all" in maxPages so you download all the images -->
+    <baseTags>
+        hayakawa_tazuna
+    </baseTags>
+    <includeTags>
+        horse_girl
+    </includeTags>
+    <excludeTags>
+        kiryuin_aoi
+    </excludeTags>
+</downloadInfo>
