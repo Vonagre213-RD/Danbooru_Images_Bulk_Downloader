@@ -20,7 +20,7 @@
 pnpm install
 ```
 
-![Información de Instalación](./Images/Pasted%20image%2020260221185638.png)
+![Información de Instalación](./gitImages/Pasted%20image%2020260221194424.png)
 
 3-¡Eso es todo! ¡Ya has instalado el descargador de imágenes! ¡Ahora procede a la guía de uso!
 
@@ -104,7 +104,7 @@ Estas son opcionales pero recomiendo usarlas ya que reduce la cantidad de inform
 
 Solo escribe `pnpm run start` en tu terminal y ejecutará el programa.
 
-![Información de Ejecución](./Images/Pasted%20image%2020260221192122.png)
+![Información de Ejecución](./gitImages/Pasted%20image%2020260221194448.png)
 
 # ¡Eso es todo! ¡El programa debería empezar a descargar las imágenes!
 

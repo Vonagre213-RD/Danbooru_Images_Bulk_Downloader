@@ -20,7 +20,7 @@ t to quickly download images from danbooru it also downloads gifts and videos fr
 pnpm install
 ```
 
-![Installation Information](./Images/Pasted%20image%2020260221185638.png)
+![Installation Information](./gitImages/Pasted%20image%2020260221194424.png)
 
 3-That's all! You have already installed the image downloader! Now proceed to the usage guide!
 
@@ -104,7 +104,7 @@ These are optionals  but I recommend using them since it reduces the amount of u
 
 Just write `pnpm run start` in your terminal and it will execute the program.
 
-![Execution Information](./Images/Pasted%20image%2020260221192122.png)
+![Execution Information](./gitImages/Pasted%20image%2020260221194448.png)
 
 # That's it! The program should start downloading the images!
 
