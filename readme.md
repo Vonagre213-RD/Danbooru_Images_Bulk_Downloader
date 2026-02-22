@@ -10,6 +10,8 @@ t to quickly download images from danbooru it also downloads gifts and videos fr
 
 2- Also, I used **pnpm** instead of **npm** as package manager so you must install it first  **Official installation link ->** [Installation | pnpm](https://pnpm.io/installation).
 
+3- If it doens't works, try moving it to the folder of your disk for example `C:\`, sometimes windows blocks pnpm from running in some folders.
+
 # Installation 
 
 1- First download the file from **GitHub** it will download a .zip, extract it and open the folder with your code editor or terminal, I will be using **Visual Studio** code for the guide.

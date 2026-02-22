@@ -10,6 +10,8 @@
 
 2- Además, usé **pnpm** en lugar de **npm** como gestor de paquetes, así que debes instalarlo primero **Enlace oficial de instalación ->** [Installation | pnpm](https://pnpm.io/installation).
 
+3- Si no funciona, intenta moverlo a la raíz de tu disco, por ejemplo `C:\`, a veces Windows bloquea la ejecución de pnpm en algunas carpetas.
+
 # Instalación 
 
 1- Primero descarga el archivo desde **GitHub**, se descargará un .zip, extráelo y abre la carpeta con tu editor de código o terminal, yo estaré usando **Visual Studio code** para la guía.
