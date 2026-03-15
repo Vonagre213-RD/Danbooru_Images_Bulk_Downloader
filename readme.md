@@ -94,13 +94,13 @@ pnpm install
 
 `separationByArtist`: If is true, it will create a folder for each artist and will save it's respective images there.
 
-`baseTags`: These are the tags that the Danbooru api allows to use in the request, you can only place two if you place more the program will fail, unless you're a danbooru premium user in that case you should be able to place more.
+`baseTags`: These are the tags that the Danbooru api allows to use in the request, you can only place two if you place more the program will fail, unless you're a danbooru premium user in that case you should be able to place more. (The tag separator is the comma ,)
 
 These are optionals  but I recommend using them since it reduces the amount of unnecessary information the program has to fetch.
 
-`IncludeTags`: these are the tags post must include to be downloaded.
+`IncludeTags`: these are the tags post must include to be downloaded.(The tag separator is the comma ,)
 
-`excludeTags`: these are the tags post must not include to be downloaded.
+`excludeTags`: these are the tags post must not include to be downloaded.(The tag separator is the comma ,)
 
 # How to execute:
 

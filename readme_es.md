@@ -94,13 +94,13 @@ pnpm install
 
 `separationByArtist`: Si es true, creará una carpeta para cada artista y guardará sus respectivas imágenes allí.
 
-`baseTags`: Estas son las etiquetas que la api de Danbooru permite usar en la solicitud, solo puedes colocar dos, si colocas más el programa fallará, a menos que seas un usuario premium de danbooru, en cuyo caso deberías poder colocar más.
+`baseTags`: Estas son las etiquetas que la api de Danbooru permite usar en la solicitud, solo puedes colocar dos, si colocas más el programa fallará, a menos que seas un usuario premium de danbooru, en cuyo caso deberías poder colocar más. (El separador de etiquetas es la coma ,)
 
 Estas son opcionales pero recomiendo usarlas ya que reduce la cantidad de información innecesaria que el programa tiene que obtener.
 
-`IncludeTags`: estas son las etiquetas que la publicación debe incluir para ser descargada.
+`IncludeTags`: estas son las etiquetas que la publicación debe incluir para ser descargada. (El separador de etiquetas es la coma ,)
 
-`excludeTags`: estas son las etiquetas que la publicación no debe incluir para ser descargada.
+`excludeTags`: estas son las etiquetas que la publicación no debe incluir para ser descargada.(El separador de etiquetas es la coma ,)
 
 # Cómo ejecutar:
 
