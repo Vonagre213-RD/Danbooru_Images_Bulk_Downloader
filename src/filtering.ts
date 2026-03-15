@@ -7,20 +7,20 @@ function postPagesFiltering(post: DanbooruPost[]) {
     const filteredPost = post.filter((post) => {
         const postTags: string[] = post.tag_string_general.split(" ");
 
-        state.tags.excludeTags.forEach(tag => {
+        for (let tag of state.tags.excludeTags) {
 
             if (postTags.includes(tag)) {
                 removedList++
                 return false
             }
-        })
-        state.tags.includeTags.forEach(tag => {
+        }
+        for (let tag of state.tags.includeTags) {
 
             if (!postTags.includes(tag)) {
                 removedList++
                 return false
             }
-        })
+        }
 
         return true
 

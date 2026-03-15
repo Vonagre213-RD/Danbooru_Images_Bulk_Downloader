@@ -9,7 +9,7 @@ import { reportCreator } from "./functions/utils/reportCreator.js";
 async function Main() {
    loadState()
    state.isDownloading = true;
-
+   console.log(state)
    while (state.isDownloading == true) {
       console.log(`\n[====Downloading page: ${state.pagination.page} ====]`)
 
