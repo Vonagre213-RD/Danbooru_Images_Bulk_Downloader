@@ -1,4 +1,3 @@
-## Si vas a hacer un fork de este proyecto o usarlo en el tuyo, por favor mencióname ❤️
 
 ## Descargador masivo de imágenes de Danbooru
 
